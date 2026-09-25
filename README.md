@@ -6,7 +6,7 @@ pkg update
 pkg install git python -y
 
 # aqui é pra baixar o projeto
-git clone https://github.com/SEU_USUARIO/code-agent.git
+git clone https://github.com/Santszx/code-agent.git
 
 # esse aqui é pra entrar ná pasta
 cd code-agent
