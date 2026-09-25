@@ -1,15 +1,12 @@
-# antigravity-mini
-Antigravity Mini — IA pessoal para Termux, feita em Python, com Gemini via REST, memória local, cálculos, conversões, workspace e interface moderna. Leve, modular e focada em segurança.
-
-# Atualização do ambiente do termux 
+# Atualizar o ambiente do Termux
 pkg update
 pkg install git python -y
 
-# aqui é pra baixar o projeto
+# Baixar o projeto
 git clone https://github.com/Santszx/code-agent.git
 
-# esse aqui é pra entrar ná pasta
+# Entrar na pasta
 cd code-agent
 
-# aqui e pra rodar
+# Rodar o Antigravity Mini
 python antigravitymini.py
